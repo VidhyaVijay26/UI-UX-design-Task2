@@ -60,8 +60,7 @@ The app is designed to keep the reading experience simple and distraction free. 
 
 ## 👤 Designed By
 
-**Vidhya Vijay**  
-_UI/UX Designer_  
+**Vidhya Vijay**   
 [Figma Portfolio](https://figma.com/@vidhyavijay) • [LinkedIn](www.linkedin.com/in/vidhya-vijay-86ab94328)
 
 ---
